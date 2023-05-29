@@ -23,3 +23,4 @@ The idea behind this repository is to better understand the different type of vi
 * Ipywidgets
 * Plotlywidget
 * Streamlit
+* PyCharm
