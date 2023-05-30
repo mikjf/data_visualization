@@ -18,7 +18,6 @@ The idea behind this repository is to better understand the different type of vi
 
 ### Technologies and packages
 * Seaborn
-* Altair
 * Plotly
 * Ipywidgets
 * Plotlywidget
