@@ -12,8 +12,8 @@ The idea behind this repository is to better understand the different type of vi
 * [XX](X.ipynb)
 * [XX](X.ipynb)
 
-### Sources
-* [XX](X)
+### Data and sources
+* [SNB money-market rate data](https://data.snb.ch/en/topics/ziredev/cube/zimoma)
 * [XX](X)
 
 ### Technologies and packages
